@@ -28,6 +28,6 @@
 
     ## Questions: 
     ...
-      Gihub Link: [github link](https://www.github.com/brc9087)
+      Gihub Link: https://www.github.com/brc9087
     ...
       Please reach me at brc9087@yahoo.com or the Github link listed above with any questions
