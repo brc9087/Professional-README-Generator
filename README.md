@@ -29,5 +29,6 @@
     ## Questions: 
     ...
       Gihub Link: https://www.github.com/brc9087
+      Walkthrough Video Link: https://drive.google.com/file/d/1KUAOwTXjDjwAYc9pvA2axxuLNPdgOdQ6/view
     ...
       Please reach me at brc9087@yahoo.com or the Github link listed above with any questions
